@@ -1,6 +1,5 @@
-#include <stdio.h>
-
-int main(void) {
-    printf("Hello from Makefile automation!\n");
-    return 0;
-}
+#include <stdio.h> 
+int main(void) { 
+    puts("Linux Systems Programming build succeeded."); 
+    return 0; 
+} 
